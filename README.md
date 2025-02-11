@@ -1,4 +1,4 @@
-# Simulator Télos - Nível 9
+# Simulador Télos - Nível 9
 
 Projeto fictício desenvolvido no Visual Studio que simula um sistema de gestão de pizzaria utilizando APIs RESTful com ASP.NET Web API. O objetivo é aplicar conceitos essenciais de desenvolvimento de APIs, incluindo:
 - Princípios REST;
