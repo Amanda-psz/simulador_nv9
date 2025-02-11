@@ -5,6 +5,7 @@ Projeto fictício desenvolvido no Visual Studio que simula um sistema de gestão
 - Autenticação e autorização com JWT;
 - Documentação de APIs com Swagger;
 - Testes unitários básicos.
+
 Este projeto faz parte do Simulador Nível 9 da trilha de programação da formação do programa AfroDigital da Télos.
 
 ## Tecnologias Utilizadas
